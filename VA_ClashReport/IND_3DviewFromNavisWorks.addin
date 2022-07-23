@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command IND_3DviewFromNavisWorks</Text>
+    <Description>Some description for IND_3DviewFromNavisWorks</Description>
+    <Assembly>IND_3DviewFromNavisWorks.dll</Assembly>
+    <FullClassName>IND_3DviewFromNavisWorks.Command</FullClassName>
+    <ClientId>0506418c-eca6-46cd-a371-cb9320ac0e31</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application IND_3DviewFromNavisWorks</Name>
+    <Assembly>IND_3DviewFromNavisWorks.dll</Assembly>
+    <FullClassName>IND_3DviewFromNavisWorks.App</FullClassName>
+    <ClientId>07d6f77b-ca31-49be-a125-796a4f210f3a</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
