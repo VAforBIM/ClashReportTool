@@ -1,4 +1,4 @@
-﻿using INDArchitects.Methods;
+﻿using VA_Helpers.Methods;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace IND_3DviewFromNavisWorks
+namespace VA_ClashReport
 {
     public partial class ClashesForm : Form
     {

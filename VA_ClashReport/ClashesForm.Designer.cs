@@ -1,5 +1,5 @@
 ﻿
-namespace IND_3DviewFromNavisWorks
+namespace VA_ClashReport
 {
     partial class ClashesForm
     {

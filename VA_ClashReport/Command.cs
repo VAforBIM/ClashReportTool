@@ -10,13 +10,13 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
-using INDArchitects.Methods;
-using IND_3DviewFromNavisWorks; 
+using VA_Helpers.Methods;
+using VA_ClashReport; 
 
 
 #endregion
 
-namespace IND_3DviewFromNavisWorks
+namespace VA_ClashReport
 {
     [Transaction(TransactionMode.Manual)]
     public class Command : IExternalCommand
@@ -41,7 +41,7 @@ namespace IND_3DviewFromNavisWorks
         }
     }
 }
-namespace INDArchitects.Methods
+namespace VA_Helpers.Methods
 {
     #region Creating a 3D view and collecting inforamtion from a form
     /// <summary>

@@ -8,7 +8,7 @@ using System.Collections.Generic;
 
 #endregion
 
-namespace IND_3DviewFromNavisWorks
+namespace VA_ClashReport
 
 {
     class App : IExternalApplication
